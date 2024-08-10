@@ -1,0 +1,10 @@
+[
+{"rating": "Mature", "name": "Grand Theft Auto IV","releaseDate": "2008", "age": "16", "price": "25.99", "resaleValue": "15.99"},
+{"rating": "Mature", "name": "Grand Theft Auto V", "releaseDate": "2013", "age": "11", "price": "29.99", "resaleValue": "19.99"},
+{"rating": "Everyone", "name": "NHL 08", "releaseDate": "2008", "age": "16", "price": "19.99", "resaleValue": "9.99"},
+{"rating": "Teen", "name": "The Sims 3","releaseDate": "2007", "age": "15", "price": "79.99", "resaleValue": "49.99"},
+{"rating": "Teen", "name": "Spider-Man 3", "releaseDate": "2007", "age": "15", "price": "49.99", "resaleValue": "19.99"},
+{"rating": "Mature", "name": "Deadpool", "releaseDate": "2013", "age": "11", "price": "69.99", "resaleValue": "39.99"},
+{"rating": "Everyone", "name": "Little Big Planet", "releaseDate": "2008", "age": "16", "price": "59.99", "resaleValue": "29.99"}
+]
+
